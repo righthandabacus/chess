@@ -422,6 +422,7 @@ class ChessGame {
 					break;
 			}
 		}
+		console.printf("Game finished." + (whiteMove?"Black":"White") + " won.");
 	}
 
 	/** Verify the game running correctly using Kasparov vs the World.
