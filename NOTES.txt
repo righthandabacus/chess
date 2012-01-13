@@ -1,0 +1,24 @@
+From Wikipedia:
+
+Chessboard = 8x8
+16 Pieces on a side: King, Queen, 2 Rooks, 2 Knights, 2 Bishops, 8 Pawns
+Rows are called "ranks", numbered 1 to 8
+Columns are called "files", lettered A to H
+Players: "black" vs "white", white always first
+Checkmate = King under attack
+Capture = Replacing opponent's piece
+Valid move = Must not make king under attack
+Stalemate = King is not under attack but no valid move is possible
+
+Moves:
+King: 1 square in any direction
+Rook: Any number of square along rank or file, but not leap over other pieces
+Bishop: Any number of square diagonally, but not leap over other pieces
+Queen: Combines rook and bishop
+Knight: To any of the closest squares that are not on the same rank, file, or diagonal; thus a L-shape (2 vertical + 1 horizontal or 2 horizontal + 1 vertical). May leap over other pieces
+Pawn: Immediately in front of it (same file); or on its first move, two square in front; or capturing an opponent's piece diagonally in front of it
+
+Special moves: Castling, En passant, Promotion
+
+Algebraic Chess Notation:
+Pieces: K=King, Q=Queen, R=rook, B=bishop, N=Knight, (no letter)=Pawn
